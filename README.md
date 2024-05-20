@@ -206,6 +206,7 @@
 </table>
 
   <!-- Sección de contacto... -->
+<section>id=contacto
 <form action="enviar.php" method="post" onsubmit="alert('Enviado');">
     <!-- Campos del formulario -->
     <label for="nombre">Nombre:</label>
@@ -216,6 +217,7 @@
     <textarea id="mensaje" name="mensaje" required></textarea><br>
     <input type="submit" value="Enviar">
   </form>
+  </section>
   <footer>
     <p>© 2023 Nuestra Tienda de Mascotas. Todos los derechos reservados.</p>
   </footer>
