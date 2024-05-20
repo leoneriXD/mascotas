@@ -206,7 +206,7 @@
 </table>
 
   <!-- Sección de contacto... -->
-<section>id=contacto
+<section id=contacto> 
 <form action="enviar.php" method="post" onsubmit="alert('Enviado');">
     <!-- Campos del formulario -->
     <label for="nombre">Nombre:</label>
